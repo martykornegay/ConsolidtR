@@ -1,0 +1,29 @@
+#action_hdr{
+	text-align: center;
+}
+
+.carousel-inner > .item {
+   height: 0px;
+}
+
+.main-container{
+	padding-top: 50px;
+}
+
+.index-intro{
+	width: 100%;
+	background-color: #f3f3f3;
+}
+
+.index-intro .jumbotron{
+	padding: 0px;
+	margin:	0px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+.card{
+	margin:20px;
+}
+
